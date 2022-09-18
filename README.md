@@ -1,1 +1,1 @@
-# react-mui-5-social-network-responsive-design
+# react-ts-muiv5-eslint-boilerplate
